@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and Data Engineering Practices**
 
-- 📫 How to reach me **ndav22n@gmail.com**
+- 📫 How to reach me: **ndav22n@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
