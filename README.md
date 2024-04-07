@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate backend developer with an interest in Data Engineering and Database Administration</h3>
 
-- 🔭 I’m currently working on **Streamlined Technology Assistance Center Application**
+- 🔭 I’m currently working on **Streamlined Technology Assistance Center Application Capstone**
 
 - 🌱 I’m currently learning **AWS and Data Engineering Practices**
 
