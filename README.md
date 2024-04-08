@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate backend developer with an interest in Data Engineering and Database Administration</h3>
+<h3 align="center">A passionate open minded backend developer with an interest in Data Engineering and Database Administration with an enjoyment in learning 🎓.</h3>
 💫 About Me:
 
 🔭 I'm currently working on a Streamlined Technology Assistance Center Application Capstone<br>🌱 I’m currently learning AWS and Data Engineering Practices<br>📫 How to reach me: ndav22n@gmail.com
