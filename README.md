@@ -3,7 +3,7 @@
 <h3 align="center">A passionate open-minded backend developer with an interest in Data Engineering and Database Administration with an enjoyment in exploring new ideas🎓.</h3>
 💫 About Me:
 
-🔭 I'm currently working on a Streamlined Technology Assistance Center Application Capstone<br>🌱 I’m currently learning Azure and Data Engineering Practices<br>📫 How to reach me: ndav22n@gmail.com
+🔭 I'm currently working on at Outlier AI<br>🌱 I’m currently learning Azure and Data Engineering Practices<br>📫 How to reach me: ndav22n@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
